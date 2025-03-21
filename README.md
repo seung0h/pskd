@@ -2,7 +2,7 @@
 
 ![teaser](imgs/teaser.png)
 
-Authors: [Seungoh Han](https://github.com/h5jam), [Jinsun Park](https://github.com/zzangjinsun), and [Donghyeon Cho](https://sites.google.com/view/cnu-cvip)
+Authors: [Seungoh Han](https://github.com/h5jam), [Jinsun Park](https://scholar.google.co.kr/citations?user=OYTOe58AAAAJ), and [Donghyeon Cho](https://scholar.google.com/citations?user=zj-NER4AAAAJ)
 
 This is the official implementation of [Minifying Photometric Stereo via Knowledge Distillation-Based Feature Translation](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-21-38284&id=507592)(Optics Express). 
 
